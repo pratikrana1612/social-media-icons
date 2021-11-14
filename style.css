@@ -123,9 +123,13 @@ ul li a .fab
     {
         transform:rotatez(180deg)translatex(60px);
     }
-    100%
+    75%
     {
         transform:rotatez(270deg)translatex(-30px);
+    }
+    100%
+    {
+        transform:rotatez(360deg)translatex(0px);
     }
 }
 @keyframes upandbig

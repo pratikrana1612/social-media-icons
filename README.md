@@ -1,2 +1,2 @@
 # social-media-icons
-[Demo]([Click me to go to Google!](https://www.google.com))
+[Demo!](https://pratikrana1612.github.io/social-media-icons/)
